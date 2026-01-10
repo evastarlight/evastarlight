@@ -10,13 +10,13 @@ I’m an **18-year-old software engineer** who loves building clean, reliable sy
 
 > *“Build fast, break nothing & Obsess over every detail”*
 
-Most of what I do — projects, write-ups, experiments — lives here → **[eva.pink](https://eva.pink)** 
+Most of what I do projects, write-ups, experiments - lives here → **[eva.pink](https://eva.pink)** 
 
 
 ### What Im working on!
-- <a href="https://vert.sh" target="_blank" rel="noopener"><strong>VERT.sh</strong></a> — Privacy-first, open-source file converter (as seen on Hacker News, XDA, @Github and more!)
-- <a href="https://pyrodactyl.dev/" target="_blank" rel="noopener"><strong>Pyrodactyl</strong></a> — Pyrodactyl is the world's best Pterodactyl panel. Unmatched performance and features. 
-- **bloom** — Rust-based file server with ShareX support  
+- <a href="https://vert.sh" target="_blank" rel="noopener"><strong>VERT.sh</strong></a> - Privacy-first, open-source file converter (as seen on Hacker News, XDA, @Github and more!)
+- <a href="https://pyrodactyl.dev/" target="_blank" rel="noopener"><strong>Pyrodactyl</strong></a> - Pyrodactyl is the world's best Pterodactyl panel. Unmatched performance and features. 
+- **bloom** - Rust-based file server with ShareX support *soon tm* 
 
 More projects and context on my site.
 
@@ -28,7 +28,7 @@ TypeScript · Rust · React & Svelte · Astro · Docker · Kubernetes ·
 
  
 
-### 🦦 About me (non-code)
+### About me (non-code)
 - 18 and happily obsessed with building things  
 - I have **ferrets** (tiny chaos creatures, much loved)  
 - I care deeply about simplicity, UX, and making things that *just feel right*  
