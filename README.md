@@ -6,7 +6,7 @@
 
 # 👋 Hiya, I’m Eva
 
-I’m an **18-year-old software engineer** who loves building clean, reliable systems and admiring the little details.  
+I’m an **18-year-old Full-Stack SWE** who loves building clean, reliable systems and admiring the little details.  
 
 > *“Build fast, break nothing & Obsess over every detail”*
 
