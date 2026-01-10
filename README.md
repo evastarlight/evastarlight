@@ -13,9 +13,10 @@ I’m an **18-year-old software engineer** who loves building clean, reliable sy
 Most of what I do projects, write-ups, experiments - lives here → **[eva.pink](https://eva.pink)** 
 
 
-### What Im working on!
-- <a href="https://vert.sh" target="_blank" rel="noopener"><strong>VERT.sh</strong></a> - Privacy-first, open-source file converter (as seen on Hacker News, XDA, @Github and more!)
-- <a href="https://pyrodactyl.dev/" target="_blank" rel="noopener"><strong>Pyrodactyl</strong></a> - Pyrodactyl is the world's best Pterodactyl panel. Unmatched performance and features. 
+### What I'm working on!
+- [VERT.sh](https://vert.sh) - Privacy-first, open-source file converter  
+  - [Featured on Hacker News](https://news.ycombinator.com/item?id=43663865) · [XDA Developers](https://www.xda-developers.com/started-converting-all-my-files-with-open-source-tool/) · [@GitHub on Twitter](https://x.com/github/status/1993662391276441681) and more!
+- [Pyrodactyl](https://pyrodactyl.dev/) - Pyrodactyl is the world's best Pterodactyl panel. Unmatched performance and features. 
 - **bloom** - Rust-based file server with ShareX support *soon tm* 
 
 More projects and context on my site.
