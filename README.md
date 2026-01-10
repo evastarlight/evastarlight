@@ -6,7 +6,7 @@
 
 # 👋 Hiya, I’m Eva
 
-I’m an **18-year-old software engineer** who loves building clean, reliable systems and cherishing the little details.  
+I’m an **18-year-old software engineer** who loves building clean, reliable systems and admiring the little details.  
 
 > *“Build fast, break nothing & Obsess over every detail”*
 
@@ -17,21 +17,21 @@ Most of what I do projects, write-ups, experiments - lives here → **[eva.pink]
 - [VERT.sh](https://vert.sh) - Privacy-first, open-source file converter  
   - [Featured on Hacker News](https://news.ycombinator.com/item?id=43663865) · [XDA Developers](https://www.xda-developers.com/started-converting-all-my-files-with-open-source-tool/) · [@GitHub on Twitter](https://x.com/github/status/1993662391276441681) and more!
 - [Pyrodactyl](https://pyrodactyl.dev/) - Pyrodactyl is the world's best Pterodactyl panel. Unmatched performance and features. 
-- **bloom** - Rust-based file server with ShareX support *soon tm* 
+- **bloom** - Rust-based file server with ShareX support *(soon tm)* 
 
 More projects and context on my site.
 
  
 
-### 🛠️ Tech I build with
-TypeScript · Rust · React & Svelte · Astro · Docker · Kubernetes · 
+### 🛠️ What I build with
+TypeScript · Rust · React · Svelte · Astro · Docker · Kubernetes · Nix · PostgreSQL · Figma
 
 
  
 
 ### About me (non-code)
-- 18 and happily obsessed with building things  
-- I have **ferrets** (tiny chaos creatures, much loved)  
+- 18 and happily obsessed with building things & photography
+- I have two **ferrets** (named Lily and Smore)  
 - I care deeply about simplicity, UX, and making things that *just feel right*  
 
 
