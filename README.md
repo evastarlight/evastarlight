@@ -16,7 +16,6 @@ Most of what I do projects, write-ups, experiments - lives here → **[eva.pink]
 ### What I'm working on!
 - [VERT.sh](https://vert.sh) - Privacy-first, open-source file converter  
   - [Featured on Hacker News](https://news.ycombinator.com/item?id=43663865) · [XDA Developers](https://www.xda-developers.com/started-converting-all-my-files-with-open-source-tool/) · [@GitHub on Twitter](https://x.com/github/status/1993662391276441681) and more!
-- [Pyrodactyl](https://pyrodactyl.dev/) - Pyrodactyl is the world's best Pterodactyl panel. Unmatched performance and features. 
 - **bloom** - Rust-based file server with ShareX support *(soon tm)* 
 
 More projects and context on my site.
