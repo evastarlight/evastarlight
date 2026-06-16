@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://eva.pink">
     <img src="./assets/misc/bannerv3rounded.png" alt="Eva banner" width="520"/>
   </a>
-</p>
+</p> -->
 
 # 👋 Hiya, I’m Eva
 
